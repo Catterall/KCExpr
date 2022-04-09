@@ -41,9 +41,9 @@ There is a finite list of mathematical functions that are recognised as function
      - The cosecant function returns the cosecant of a number radians e.g. ``csc(0.5)`` returns ``2.08...``
    * - ``sinh(x)``
      - The hyperbolic sine function returns the hyperbolic sine of a number radians e.g. ``sinh(0.5)`` returns ``0.52...``
-     - ``csch(x)``
+   * - ``csch(x)``
      - The hyperbolic cosecant function returns the hyperbolic cosecant of a number radians e.g. ``csch(0.5)`` returns ``1.91...``
-     - ``sinha(x)``
+   * - ``sinha(x)``
      - The arc-hyperbolic sine function returns the arc-hyperbolic sine of a number radians e.g. ``sinha(0.5)`` returns ``0.48...``
    * - ``cos(x)``
      - The cosine function returns the cosine of a number radians e.g. ``cos(0.5)`` returns ``0.87...``
@@ -53,9 +53,9 @@ There is a finite list of mathematical functions that are recognised as function
      - The secant function returns the secant of a number radians e.g. ``sec(0.5)`` returns ``1.13...``
    * - ``cosh(x)``
      - The hyperbolic cosine function returns the hyperbolic cosine of a number radians e.g. ``cosh(0.5)`` returns ``1.12...``
-     - ``sech(x)``
+   * - ``sech(x)``
      - The hyperbolic secant function returns the hyperbolic secant of a number radians e.g. ``sech(0.5)`` returns ``0.88...``
-     - ``cosha(x)``
+   * - ``cosha(x)``
      - The arc-hyperbolic cosine function returns the arc-hyperbolic cosine of a number radians e.g. ``cosha(10.0)`` returns ``2.99...``
    * - ``tan(x)``
      - The tangent function returns the tangent of a number radians e.g. ``tan(0.5)`` returns ``0.54...``
@@ -65,9 +65,9 @@ There is a finite list of mathematical functions that are recognised as function
      - The cotangent function returns the cotangent of a number radians e.g. ``cot(0.5)`` returns ``1.83...``
    * - ``tanh(x)``
      - The hyperbolic tangent function returns the hyperbolic tangent of a number radians e.g. ``tanh(0.5)`` returns ``0.46...``
-     - ``coth(x)``
+   * - ``coth(x)``
      - The hyperbolic cotangent function returns the hyperbolic cotangent of a number radians e.g. ``coth(0.5)`` returns ``2.16...``
-     - ``tanha(x)``
+   * - ``tanha(x)``
      - The arc-hyperbolic tangent function returns the arc-hyperbolic tangent of a number radians e.g. ``tanha(0.5)`` returns ``0.54...``
    * - ``x! (and gamma)``
      - Whilst an operator, not a function, the factorial does utilize the gamma function. ``x!`` returns ``math.gamma(x+1)``.
