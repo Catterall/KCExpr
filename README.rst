@@ -2,6 +2,8 @@
 KCExpr for Python
 =================
 
+**KCExpr is a beginner Python project for regular expressions** — it is a mathematics parser built entirely with regular expressions; no other libraries have been used! This, of course, is not actually how to build a parser, but is an interesting implementation nevertheless.
+
 KCExpr allows for the parsing of mathematical expressions as strings. KCExpr currently supports 27 mathematical functions, such as summation, products, and trigonometric functions, as well as supporting 37 mathematical constants, such as pi, e, and the golden ratio.
 
 In all cases of KCExpr, the implementation structure is relatively similar. Firstly, declare an object of the KCExpr() class. Next, set the expression of that object. Finally, parse the object. The code blocks below highlight this process, both for single and multiple objects.
